@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sanxieryu.github.io/"/>
-  <updated>2016-02-29T02:13:23.000Z</updated>
+  <updated>2016-02-29T08:37:00.000Z</updated>
   <id>http://sanxieryu.github.io/</id>
   
   <author>
@@ -16,18 +16,91 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>dding hello</title>
+    <title>as备忘录</title>
     <link href="http://sanxieryu.github.io/2016/02/29/dding-hello/"/>
     <id>http://sanxieryu.github.io/2016/02/29/dding-hello/</id>
     <published>2016-02-29T02:13:23.000Z</published>
-    <updated>2016-02-29T02:13:23.000Z</updated>
+    <updated>2016-02-29T08:37:00.000Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;作用&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;快捷键名称&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;设置&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;删除整行&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;Delete Line&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;cmd+d&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;快速修复&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;show Intention Actions&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;command+1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;当前类方法  文件结构&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;File Structure&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;cmd+O&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;全局文件搜索&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;Main menu-Navigate-File&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;cmd+shift+O&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;全局搜索&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;find in Path&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;cmd+shift+f&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;全局替换&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;Replace in Path&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;cmd+shift+r&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;大小写转换&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;Toggle Case&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;cmd+shift+U&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;代码格式化&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;Reformat code&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;cmd+shift+S&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;快速插入局部变量&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;Main menu-Extract-Variable&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;cmd+2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt; &lt;strong&gt;显示行号&lt;/strong&gt; setting - Editor - Appearance - show line numbers 显示&lt;/p&gt;
+&lt;p&gt; &lt;strong&gt;显示方法分割&lt;/strong&gt; setting - Editor - Appearance - show method separators&lt;/p&gt;
+</content>
     
     <summary type="html">
     
+      &lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;作用&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;快捷键名称&lt;/th&gt;
+&lt;th style=&quot;text-align:right&quot;&gt;设置&lt;/th&gt;
+&lt;/tr&gt;
+    
     </summary>
     
+    
+      <category term="android studio" scheme="http://sanxieryu.github.io/tags/android-studio/"/>
+    
+      <category term="备忘录" scheme="http://sanxieryu.github.io/tags/%E5%A4%87%E5%BF%98%E5%BD%95/"/>
+    
+      <category term="快捷键" scheme="http://sanxieryu.github.io/tags/%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
     
   </entry>
   
