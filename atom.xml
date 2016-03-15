@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sanxieryu.github.io/"/>
-  <updated>2016-02-29T08:56:57.000Z</updated>
+  <updated>2016-03-15T08:06:23.000Z</updated>
   <id>http://sanxieryu.github.io/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>dingTemp</title>
+    <link href="http://sanxieryu.github.io/2016/03/15/dingTemp/"/>
+    <id>http://sanxieryu.github.io/2016/03/15/dingTemp/</id>
+    <published>2016-03-15T08:04:16.000Z</published>
+    <updated>2016-03-15T08:06:23.000Z</updated>
+    
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;Binder&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://weishu.me/2016/01/12/binder-index-for-newer/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Binder学习指南 &lt;/a&gt;&lt;strong&gt;不错哦&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/universus/article/details/6211589&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Android Bander设计与实现 - 设计篇&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/luoshengyang/article/details/6618363&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt; Android进程间通信（IPC）机制Binder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.csdn.net/cauchyweierstrass/article/details/50701102&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;简单说Binder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&quot;&gt;Binder&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://weishu.me/2016/01/12/binder-index-for-newer/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Binder学习
+    
+    </summary>
+    
+    
+      <category term="dingtemp" scheme="http://sanxieryu.github.io/tags/dingtemp/"/>
+    
+  </entry>
   
   <entry>
     <title>android link</title>
